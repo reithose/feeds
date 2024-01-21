@@ -14,8 +14,15 @@
 	</outline>
 	<outline text="Overig" title="Overig">
 		<outline text="3voor12-updates" title="3voor12-updates" description="" type="rss" version="RSS" htmlUrl="https://3voor12.vpro.nl/" xmlUrl="https://rs.vpro.nl/v3/api/feeds/3voor12/section/3voor12%20Landelijk"/>
+		<outline text="AARTJAN.NL" title="AARTJAN.NL" description="" type="rss" version="RSS" htmlUrl="https://aartjan.nl/blog/" xmlUrl="http://aartjan.nl/blog/feed/"/>
+		<outline text="Algemene informatie van crisis.nl" title="Algemene informatie van crisis.nl" description="" type="rss" version="RSS" htmlUrl="http://productie-crs-gdi-we.cloudapp.net/" xmlUrl="https://crisis.nl/algemene-informatie-van-crisisnl/"/>
+		<outline text="Bert Hubert's writings" title="Bert Hubert's writings" description="" type="rss" version="RSS" htmlUrl="https://berthub.eu/articles/" xmlUrl="https://berthub.eu/articles/index.xml"/>
+		<outline text="Chris Eidhof" title="Chris Eidhof" description="" type="rss" version="RSS" htmlUrl="http://chris.eidhof.nl/" xmlUrl="http://chris.eidhof.nl//index.xml"/>
 		<outline text="De Speld" title="De Speld" description="" type="rss" version="RSS" htmlUrl="https://speld.nl/" xmlUrl="http://www.speld.nl/feed/"/>
 		<outline text="Ernst-Jan Pfauth" title="Ernst-Jan Pfauth" description="" type="rss" version="RSS" htmlUrl="https://pfauth.com/" xmlUrl="http://pfauth.com/feed/"/>
+		<outline text="Hidde Bouwmeester" title="Hidde Bouwmeester" description="" type="rss" version="RSS" htmlUrl="https://hiddebouwmeester.nl/" xmlUrl="https://hiddebouwmeester.nl/feed/"/>
+		<outline text="Knowable - Medium" title="Knowable - Medium" description="" type="rss" version="RSS" htmlUrl="https://medium.com/knowable?source=rss----625c46e71e00---4" xmlUrl="https://medium.com/feed/knowable"/>
+		<outline text="kottke.org" title="kottke.org" description="" type="rss" version="RSS" htmlUrl="http://kottke.org/" xmlUrl="http://feeds.kottke.org/main"/>
 		<outline text="Nieuws, informatie en opinie over innovatie, duurzaam ondernemen en hernieuwbare energie" title="Nieuws, informatie en opinie over innovatie, duurzaam ondernemen en hernieuwbare energie" description="" type="rss" version="RSS" htmlUrl="https://www.wattisduurzaam.nl/" xmlUrl="http://www.wattisduurzaam.nl/feed/"/>
 		<outline text="xkcd" title="xkcd" description="" type="rss" version="RSS" htmlUrl="https://xkcd.com/" xmlUrl="http://xkcd.com/rss.xml"/>
 	</outline>
@@ -28,21 +35,44 @@
 		<outline text="Interconnected" title="Interconnected" description="" type="rss" version="RSS" htmlUrl="https://interconnected.org/home" xmlUrl="https://interconnected.org/home/feed"/>
 		<outline text="Marko Denic" title="Marko Denic" description="" type="rss" version="RSS" htmlUrl="https://markodenic.com/" xmlUrl="https://markodenic.com/feed/"/>
 		<outline text="On my Om" title="On my Om" description="" type="rss" version="RSS" htmlUrl="https://om.co/" xmlUrl="http://om.co/feed/"/>
-		<outline text="Platformer" title="Platformer" description="" type="rss" version="RSS" htmlUrl="https://www.platformer.news/" xmlUrl="https://www.platformer.news/feed/"/>
+		<outline text="Pluralistic: Daily links from Cory Doctorow" title="Pluralistic: Daily links from Cory Doctorow" description="" type="rss" version="RSS" htmlUrl="https://pluralistic.net/" xmlUrl="https://pluralistic.net/feed/"/>
 		<outline text="Product Hunt" title="Product Hunt" description="" type="rss" version="RSS" htmlUrl="http://www.producthunt.com/" xmlUrl="http://www.producthunt.com/feed.atom"/>
+		<outline text="Sarah Rainsberger | Blog" title="Sarah Rainsberger | Blog" description="" type="rss" version="RSS" htmlUrl="https://rainsberger.ca/" xmlUrl="https://www.rainsberger.ca/rss.xml"/>
 		<outline text="Sidebar" title="Sidebar" description="" type="rss" version="RSS" htmlUrl="https://sidebar.io/" xmlUrl="http://feeds.feedburner.com/SidebarFeed"/>
 		<outline text="Stratechery by Ben Thompson" title="Stratechery by Ben Thompson" description="" type="rss" version="RSS" htmlUrl="https://stratechery.com/" xmlUrl="https://stratechery.com/feed/"/>
 		<outline text="The Verge" title="The Verge" description="" type="rss" version="RSS" htmlUrl="https://www.theverge.com/" xmlUrl="http://www.theverge.com/rss/full.xml"/>
 		<outline text="Tweakers Nieuws" title="Tweakers Nieuws" description="" type="rss" version="RSS" htmlUrl="https://tweakers.net/nieuws" xmlUrl="http://www.tweakers.net/feeds/nieuws.xml"/>
+		<outline text="Twitter is Going Great!" title="Twitter is Going Great!" description="" type="rss" version="RSS" htmlUrl="https://twitterisgoinggreat.com/" xmlUrl="https://twitterisgoinggreat.com/feed.xml"/>
 		<outline text="WANT" title="WANT" description="" type="rss" version="RSS" htmlUrl="https://www.want.nl/" xmlUrl="http://www.want.nl/rss2/"/>
 	</outline>
-	<outline text="Web design" title="Web design">
-		<outline text="Articles - Pimp my Type" title="Articles - Pimp my Type" description="" type="rss" version="RSS" htmlUrl="https://pimpmytype.com/" xmlUrl="https://pimpmytype.com/articles/feed/"/>
-		<outline text="Josh Collinsworth" title="Josh Collinsworth" description="" type="rss" version="RSS" htmlUrl="https://joshcollinsworth.com/" xmlUrl="https://joshcollinsworth.com/rss.xml"/>
-		<outline text="Josh Comeau's blog" title="Josh Comeau's blog" description="" type="rss" version="RSS" htmlUrl="https://www.joshwcomeau.com/" xmlUrl="https://www.joshwcomeau.com/rss.xml"/>
+	<outline text="Tech mensen" title="Tech mensen">
+		<outline text="Amadeus Maximilian’s Blog" title="Amadeus Maximilian’s Blog" description="" type="rss" version="RSS" htmlUrl="https://amxmln.com/blog/" xmlUrl="https://amxmln.com/rss.xml"/>
+		<outline text="Basic Apple Guy" title="Basic Apple Guy" description="" type="rss" version="RSS" htmlUrl="https://basicappleguy.com/" xmlUrl="https://www.basicappleguy.com/basicappleblog?format=rss"/>
+		<outline text="Ben Smith’s Blog" title="Ben Smith’s Blog" description="" type="rss" version="RSS" htmlUrl="https://bensmith.sh/" xmlUrl="https://bensmith.sh/blog/feed.xml"/>
+		<outline text="BirchTree" title="BirchTree" description="" type="rss" version="RSS" htmlUrl="https://birchtree.me/" xmlUrl="http://feedpress.me/birchtree"/>
+		<outline text="Elian Van Cutsem" title="Elian Van Cutsem" description="" type="rss" version="RSS" htmlUrl="https://www.elian.codes/" xmlUrl="https://www.elian.codes/blog.xml"/>
+		<outline text="Eric Bailey" title="Eric Bailey" description="" type="rss" version="RSS" htmlUrl="https://ericwbailey.website/" xmlUrl="https://ericwbailey.design/feed/feed.xml"/>
+		<outline text="jakelazaroff.com" title="jakelazaroff.com" description="" type="rss" version="RSS" htmlUrl="https://jakelazaroff.com/" xmlUrl="https://jakelazaroff.com/rss.xml"/>
+		<outline text="Jim Nielsen’s Blog" title="Jim Nielsen’s Blog" description="" type="rss" version="RSS" htmlUrl="https://blog.jim-nielsen.com/" xmlUrl="https://blog.jim-nielsen.com/feed.xml"/>
+		<outline text="Johan Halse wrote this" title="Johan Halse wrote this" description="" type="rss" version="RSS" htmlUrl="https://johan.hal.se/wrote/" xmlUrl="https://johan.hal.se/feed.xml"/>
+		<outline text="Josh Collinsworth" title="Josh Collinsworth" description="" type="rss" version="RSS" htmlUrl="https://joshcollinsworth.com/" xmlUrl="https://joshcollinsworth.com/api/rss.xml"/>
+		<outline text="Kev Quirk" title="Kev Quirk" description="" type="rss" version="RSS" htmlUrl="https://kevquirk.com/" xmlUrl="https://kevq.uk/feed/"/>
+		<outline text="Kevin Lee Drum" title="Kevin Lee Drum" description="" type="rss" version="RSS" htmlUrl="https://kld.dev/" xmlUrl="https://kld.dev/rss.xml"/>
+		<outline text="Otterlord's Blog" title="Otterlord's Blog" description="" type="rss" version="RSS" htmlUrl="https://blog.otterlord.dev/" xmlUrl="https://blog.otterlord.dev/rss.xml"/>
+		<outline text="Posts on Bert Hubert's writings" title="Posts on Bert Hubert's writings" description="" type="rss" version="RSS" htmlUrl="https://berthub.eu/articles/posts/" xmlUrl="https://berthub.eu/articles/posts/index.xml"/>
 		<outline text="Raymond Camden" title="Raymond Camden" description="" type="rss" version="RSS" htmlUrl="https://www.raymondcamden.com/" xmlUrl="https://www.raymondcamden.com/feed.xml"/>
 		<outline text="Robin Rendle" title="Robin Rendle" description="" type="rss" version="RSS" htmlUrl="https://robinrendle.com/" xmlUrl="https://www.robinrendle.com/feed.xml"/>
+		<outline text="ScottWillsey" title="ScottWillsey" description="" type="rss" version="RSS" htmlUrl="https://scottwillsey.com/" xmlUrl="https://scottwillsey.com/rss.xml"/>
+		<outline text="tomcritchlow.com" title="tomcritchlow.com" description="" type="rss" version="RSS" htmlUrl="https://tomcritchlow.com/" xmlUrl="http://tomcritchlow.com/feed"/>
+		<outline text="Tony Sullivan" title="Tony Sullivan" description="" type="rss" version="RSS" htmlUrl="https://tonysull.co/" xmlUrl="https://tonysull.co/rss.xml"/>
+		<outline text="Vadim Kravcenko" title="Vadim Kravcenko" description="" type="rss" version="RSS" htmlUrl="https://vadimkravcenko.com/" xmlUrl="https://vadimkravcenko.com/feed/"/>
+	</outline>
+	<outline text="Web design" title="Web design">
+		<outline text="Articles - Pimp my Type" title="Articles - Pimp my Type" description="" type="rss" version="RSS" htmlUrl="https://pimpmytype.com/articles/" xmlUrl="https://pimpmytype.com/articles/feed/"/>
+		<outline text="Josh Comeau's blog" title="Josh Comeau's blog" description="" type="rss" version="RSS" htmlUrl="https://www.joshwcomeau.com/" xmlUrl="https://www.joshwcomeau.com/rss.xml"/>
+		<outline text="kimmo.blog" title="kimmo.blog" description="" type="rss" version="RSS" htmlUrl="https://kimmo.blog/" xmlUrl="https://kimmo.blog/rss.xml"/>
 		<outline text="Smashing Magazine" title="Smashing Magazine" description="" type="rss" version="RSS" htmlUrl="https://www.smashingmagazine.com/" xmlUrl="http://rss1.smashingmagazine.com/feed/"/>
+		<outline text="Tanjas blog" title="Tanjas blog" description="" type="rss" version="RSS" htmlUrl="https://tanjas.blog/" xmlUrl="https://tanjas.blog/feed/"/>
 		<outline text="UX Movement" title="UX Movement" description="" type="rss" version="RSS" htmlUrl="https://uxmovement.com/" xmlUrl="https://uxmovement.com/feed/"/>
 	</outline>
 	<outline text="Wielrennen" title="Wielrennen">
